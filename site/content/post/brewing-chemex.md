@@ -1,26 +1,50 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 智能家居是什麼？讓生活變得更聰明的秘密武器
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  你有沒有想過，回到家只要一句話，燈光、冷氣、音樂全自動開好，甚至連窗簾都幫你拉好？這不是科幻片，而是現在越來越多人在用的「智能家居」！
+
+  簡單說，智能家居就是把家裡各種家電和設備（像燈泡、冷氣、門鎖、音響、攝影機等等）全部連到一個中央系統，然後你可以用手機、語音助理（像Google助理、Siri）或牆上的面板來控制。這樣一來，不管你人在家還是在外面，都能遠端操控、監控，甚至讓家裡自動幫你做很多事，生活瞬間升級成高級飯店等級。
 image: /img/blog-chemex.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+智能家居有哪些「法寶」？
+	•	中央控制系統
+就像家裡的指揮中心，通常是手機App、語音助理或智慧面板，所有設備都聽它指揮。
+	•	各種智慧家電
+例如智慧燈泡、插座、門鎖、空調、音響、窗簾、攝影機……你想得到的家電，幾乎都有「聰明」版本。
+	•	感測器
+負責偵測溫度、濕度、光線、有人沒人等等，然後自動幫你做決定，比如溫度太高就開冷氣。
+	•	網路連接
+透過Wi-Fi、藍牙、Zigbee等無線技術，讓所有設備都能互相溝通。
+智能家居到底有多方便？
+	•	超級便利
+遠端控制、定時自動化，省掉一堆手動操作，懶人救星！
+	•	安全感爆棚
+智慧門鎖、攝影機、感測器，讓你隨時掌握家裡狀況，出門也安心。
+	•	舒適度升級
+自動調整室內溫度、燈光，打造最舒服的居家氛圍。
+	•	節能省錢
+智慧優化用電，該關的自動關，幫你省荷包。
+	•	娛樂無極限
+音響、電視、燈光全都整合，打造專屬家庭劇院。
+實際生活怎麼用？
+	•	回家模式
+一鍵開啟，燈光、冷氣、音樂全都自動打開，回家就是爽！
+	•	離家模式
+一出門，所有電器自動關閉，安全又省電。
+	•	睡眠模式
+晚上自動關燈、調低冷氣，幫你營造好睡眠。
+	•	遠端監控
+出門在外也能用手機看家裡狀況，超安心。
+	•	情境模式
+依照不同場合（看電影、聚會、浪漫晚餐），自動調整燈光和溫度。
+智能家居未來還會怎麼進化？
+	•	AI加持更聰明
+結合人工智慧，家裡會越來越懂你，互動更自然。
+	•	跨品牌整合
+不同品牌的設備也能互通，像Matter這種標準正慢慢普及。
+	•	更多生活應用
+未來還會結合健康照護、長照等，讓家不只是家，還能守護你的健康。
+總之，智能家居已經不再是遙不可及的夢想，而是現在就能體驗的生活新標配。想讓生活更方便、更安全、更有質感？不妨開始試試，把家變得更聰明吧！
